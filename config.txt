@@ -1,6 +1,0 @@
-owner=518408150253043712
-prefix=1
-game=Hàwaii | 1play
-stayinchannel=true
-songinstatus=false
-token=NTY3MTE4MDA5ODk0ODMwMDgw.XLRjvA.dTpgapEHAJEL5rJg0m62BCKwZi4
