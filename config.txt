@@ -1,0 +1,6 @@
+owner=518408150253043712
+prefix=H
+game=Hàwaii | Hplay
+stayinchannel=true
+songinstatus=false
+token=NTY3MTE4MDA5ODk0ODMwMDgw.XLR0XQ.guEEP6emznLeMzLkHlbJ0mTGzQ0
